@@ -1,0 +1,78 @@
+MVC = Model View Controller
+
+html
+
+view = html + c#
+
+model = properties 
+
+controller = code logic 
+
+
+web based application
+
+
+client-server
+
+
+server will be a machine where your application will be installed
+
+
+https://www.google.com
+
+localhost
+127.0.0.1
+
+http://localhost:41235/Employee/index
+
+http://localhost:41235/Employee/Create
+
+Employee, GetById,2
+http://localhost:41235/Employee/GetById/2
+
+Product, GetAll
+
+http://localhost:41235/Product/GetAll
+
+HTTP verbs = get, post, put, delete, patch
+
+get = select infomation from server
+
+post = insert
+put = update
+
+patch = partial update
+
+delete = deletes
+
+
+client to server = request using http = http request
+server to client = response to client  = httpresponse
+
+client to server & server to client is known as one http cycle
+
+http status code 
+200 successful
+300 redirect twitter -> x
+400 client error
+500 server error
+
+
+middleware = a piece of code that will handle every http request and reponse
+
+http://localhost:41235/controller/actions
+
+middleware1
+middleware 2
+middleware 3
+middleware 4
+
+run 
+
+
+
+
+
+
+
+
