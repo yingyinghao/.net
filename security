@@ -1,0 +1,26 @@
+authentication = username and password
+authorization = roles based access
+
+Ecommerce application
+
+User
+Vendor
+Admin
+user can check the products, buy the product
+vendor + add new peoducts, remove product, manage reviews
+admin = can approve new vendor, can active new functionality 
+
+
+Authentication microservice = username and password
+
+product Microservice
+
+customer microservice
+
+order microservice
+
+shipper microservice
+
+token based authentication(JWT)  https://jwt.io/
+
+
